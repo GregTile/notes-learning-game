@@ -1,0 +1,6 @@
+{
+  "name": "Piano Notes Trainer for Kids",
+  "description": "Interactive piano sheet music note trainer for kids featuring treble and bass clefs, audio feedback, memory mnemonics, progressive levels, speed stats, and voice input.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
